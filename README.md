@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Lin</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techtreeforest" alt="techtreeforest" /></a> </p>
 
 - 💬 Ask me about **JS/React/Vue/Node.js/Python/Django**
 
