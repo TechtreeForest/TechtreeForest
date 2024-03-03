@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer</h3>
 
 
-- 💬 Ask me about **JS/React/Vue/Node.js/Python/Django**
+- 💬 Ask me about **JS/React/Vue/Node.js/Express.js/Python/Django**
 
 - 📫 How to reach me **adrianlin.tech@outlook.com**
 
