@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adrian Lin</h1>
+<h1 align="center">Hi 👋, how are you doing?</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 
-- 💬 Ask me about **JS/React/Vue/Node.js/Express.js/Python/Django**
+- 💬 Ask me about **JS/TS/React/Vue/Node.js/Express.js/Python/Django**
 
-- 📫 How to reach me **adrianlin.tech@outlook.com**
+- 📫 How to reach me **dgtalforest.soft@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
