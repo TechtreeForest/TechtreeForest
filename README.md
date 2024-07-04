@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **.**
-
-- 💬 Ask me about **Javascript, react, angular, nodejs, mongoDB**
-
 - 📫 Feel free to reach me out **dgtalforest.soft@outlook.com**
 
 <!-- - 🏠 Don't hesitate to drop me a **👋** on Skype – [live:.cid.e83e77ce7e2a5aee](https://web.skype.com/?openPstnPage=true)  my username!
